@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DownloadExample</string>
+    <string name="download_started">Download Started</string>
+    <string name="download_completed">Download Completed</string>
+    <string name="error_permission">Error in permission</string>
+    <string name="sample_url">http://speedtest.ftp.otenet.gr/files/test10Mb.db</string>
+</resources>
